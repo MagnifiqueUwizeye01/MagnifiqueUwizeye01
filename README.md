@@ -76,7 +76,7 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
  **Architecture & Design** - Crafting robust, scalable system architectures that anticipate future growth and handle complex business logic with elegance and efficiency
 
-🔧 **Full-Stack Mastery** - Seamlessly navigating both front-end user experiences and back-end system optimization, ensuring cohesive and performant applications
+ **Full-Stack Mastery** - Seamlessly navigating both front-end user experiences and back-end system optimization, ensuring cohesive and performant applications
 
  **Data-Driven Solutions** - Transforming raw data into actionable insights through advanced analytics, visualization, and machine learning implementations
 

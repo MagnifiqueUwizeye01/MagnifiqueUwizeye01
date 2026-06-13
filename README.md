@@ -1,94 +1,26 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/FiquWorks/FiquWorks/refs/heads/main/banner.svg" alt="Uwizeye Magnifique - Software Engineer" width="100%"/>
 </div>
- 
-<br>
- 
-   
 
-    
- <div align="center">   
-  <h1> Hello, I'm Magnifique UWIZEYE </h1>    
-</div>   
-        
-<div align="center">  
- 
-##  Full-Stack Software Engineer | Problem Solver | Innovation Driver
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Java+%26+Spring+Specialist;React+%26+Node.js+Expert;Data+Analytics+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=FiquWorks&label=Profile%20Views&color=4ECDC4&style=flat)  
+<div align="center">
 
+# Hello, I'm Magnifique UWIZEYE
 
-</div> 
- 
----
- 
-##  Professional Overview
+### Software Engineer · Certified Data Analyst
 
-I'm a passionate **Full-Stack Software Engineer** and **IT Professional** dedicated to architecting scalable, secure, and innovative software solutions. With comprehensive expertise spanning both front-end and back-end technologies, I specialize in building enterprise-grade applications that solve real-world challenges and drive digital transformation.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=Software+Engineer;Certified+Data+Analyst;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
-<table>
-<tr>
-<td width="50%">
+![Profile Views](https://komarev.com/ghpvc/?username=FiquWorks&label=Profile%20Views&color=4ECDC4&style=flat)
 
-###  Academic Excellence
-- **Information Technology Student** specializing in Software Engineering & Data Analytics
-- Advancing expertise in cutting-edge technologies and industry best practices
-- Strong foundation in computer science fundamentals and software architecture
-
-</td>
-<td width="50%"> 
-
-###  Professional Focus
-- Building **high-impact, scalable applications** using modern frameworks
-- Expert in enterprise-level software architecture and database optimization
-- Specialized in cloud-native solutions and microservices architecture
-
-</td>
-</tr> 
-<tr>
-<td width="50%">
-
-###  Mission & Vision
-- Leveraging technology to **transform industries in Rwanda and globally**
-- Committed to creating solutions that drive economic growth and social impact 
-- Passionate about using technology for community development 
-
-</td>
-<td width="50%"> 
-
-###  Core Values
-- **Continuous learning** and professional development 
-- Problem-solving excellence and innovative thinking
-- Collaborative innovation and knowledge sharing
-- Quality-driven development with meaningful impact
-
-</td> 
-</tr>
-</table>
+</div>
 
 ---
 
-##  Who I Am
+## 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔
 
-As a dedicated **Full-Stack Software Engineer**, I bridge the gap between complex technical challenges and elegant, user-centric solutions. My journey in technology is driven by an insatiable curiosity and a commitment to excellence that spans across multiple domains:
-
- **Architecture & Design** - Crafting robust, scalable system architectures that anticipate future growth and handle complex business logic with elegance and efficiency
-
- **Full-Stack Mastery** - Seamlessly navigating both front-end user experiences and back-end system optimization, ensuring cohesive and performant applications
-
- **Data-Driven Solutions** - Transforming raw data into actionable insights through advanced analytics, visualization, and machine learning implementations
-
- **Innovation Leadership** - Staying at the forefront of emerging technologies, implementing best practices, and mentoring others in the development community
-
- **Collaborative Excellence** - Building strong partnerships with cross-functional teams, translating business requirements into technical solutions that deliver measurable impact
-
---- 
-
-##  Technology Mastery
-
-### Programming Languages
+### Languages
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -101,7 +33,7 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 </div>
 
-### Frontend Technologies
+### Frontend
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -111,7 +43,7 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 </div>
 
-### Backend Technologies
+### Backend
 <div align="center">
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -131,120 +63,30 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 
 </div>
 
-### DevOps & Cloud
+### DevOps & Tools
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-### Security & Testing
-<div align="center">
-
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-##  Featured Projects
-
-###  Blood Donation Management System
-
-**Enterprise-grade healthcare solution** featuring distributed architecture with Java RMI, secure OTP authentication, and real-time donor management. Includes automated PDF reporting and comprehensive audit trails.
-
-**Key Features:**
--  Secure OTP-based authentication system
--  Real-time donor and inventory management
--  Automated PDF report generation
--  Multi-hospital network integration
--  Advanced analytics and reporting dashboard
-
-![Java](https://img.shields.io/badge/Java-orange)
-![RMI](https://img.shields.io/badge/RMI-blue)
-![Hibernate](https://img.shields.io/badge/Hibernate-darkblue)
-![MySQL](https://img.shields.io/badge/MySQL-lightblue)
-
----
-
-###  Business Intelligence Dashboard
-
-**Advanced analytics platform** processing large datasets with interactive visualizations. Features real-time data processing, predictive analytics, and comprehensive business intelligence reporting.
-
-**Key Features:**
--  Real-time data processing and visualization
--  Predictive analytics and machine learning integration
--  Interactive dashboards with drill-down capabilities
--  Automated data pipeline and ETL processes
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Pandas](https://img.shields.io/badge/Pandas-darkblue)
-![Power BI](https://img.shields.io/badge/Power_BI-yellow)
-![SQL Server](https://img.shields.io/badge/SQL_Server-red)
-
----
-
-###  E-Commerce Platform
-
-**Full-stack e-commerce solution** with React frontend, Node.js backend, and integrated payment systems. Features include inventory management, order tracking, and advanced search functionality.
-
-**Key Features:**
--  Complete shopping cart and checkout system
--  Integrated payment processing (Stripe, PayPal)
--  Advanced inventory and order management
--  Intelligent search and filtering system
-
-![React](https://img.shields.io/badge/React-61DBFB)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
-![Express](https://img.shields.io/badge/Express-black)
-
----
-
-##  GitHub Analytics & Metrics
-
-<p align="center">
-
-
-
-###  Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagnifiqueUwizeye01&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-
-
-
----
-
-##  Professional Achievements
+## 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 
 <div align="center">
-
-|  Projects Completed |  Years Experience |  Technologies Mastered |  Success Rate |
-|:---------------------:|:------------------:|:------------------------:|:--------------:|
-| **5+** | **1+** | **7+** | **80%** |
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagnifiqueUwizeye01&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
-
-###  Key Performance Indicators
-
-- **Code Quality Score**: 95%+ (SonarQube, CodeClimate)
-- **Test Coverage**: 85%+ across all projects
-- **Performance Optimization**: 40% average improvement
-- **Security Compliance**: 100% adherence to OWASP guidelines
-- **Client Satisfaction**: 98% positive feedback rating
-- **Delivery Success**: 100% on-time project delivery
 
 ---
 
-##  Connect With Me
+## 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
 
 <div align="center">
 
@@ -255,6 +97,7 @@ As a dedicated **Full-Stack Software Engineer**, I bridge the gap between comple
 </div>
 
 ---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/FiquWorks/FiquWorks/refs/heads/main/closing-banner.svg" alt="Closing Banner" width="100%"/>
 </div>

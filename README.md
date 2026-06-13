@@ -12,51 +12,55 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="6">
+<table border="0" cellspacing="0" cellpadding="8">
 <tr>
-<td align="center"><sub><b>Frontend</b></sub><br/>
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black&logoWidth=10)
-![](https://img.shields.io/badge/TS-007ACC?style=flat&logo=typescript&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&logoWidth=10)
+<td align="center" valign="top">
+<sub><b>Frontend</b></sub><br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TS-007ACC?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 </td>
-<td align="center"><sub><b>Backend</b></sub><br/>
-![](https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white&logoWidth=10)
+<td align="center" valign="top">
+<sub><b>Backend</b></sub><br/><br/>
+<img src="https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+</td>
+<td align="center" valign="top">
+<sub><b>Languages</b></sub><br/><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TS-007ACC?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td align="center"><sub><b>Languages</b></sub><br/>
-![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black&logoWidth=10)
-![](https://img.shields.io/badge/TS-007ACC?style=flat&logo=typescript&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&logoWidth=10)
+<td align="center" valign="top">
+<sub><b>Databases</b></sub><br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 </td>
-<td align="center"><sub><b>Databases</b></sub><br/>
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&logoWidth=10)
+<td align="center" valign="top">
+<sub><b>DevOps & Cloud</b></sub><br/><br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </td>
-</tr>
-<tr>
-<td align="center"><sub><b>DevOps & Cloud</b></sub><br/>
-![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&logoWidth=10)
-</td>
-<td align="center"><sub><b>Tools</b></sub><br/>
-![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoWidth=10)
-![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoWidth=10)
+<td align="center" valign="top">
+<sub><b>Tools</b></sub><br/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 </td>
 </tr>
 </table>

@@ -43,6 +43,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagnifiqueUwizeye01&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution Graph" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MagnifiqueUwizeye01&theme=tokyonight&hide_border=true&background=00000000&stroke=b0a8ff&ring=b0a8ff&fire=ff6b6b&currStreakLabel=b0a8ff&sideLabels=b0a8ff&dates=888888" alt="GitHub Streak" width="60%"/>
+</div>
+
 ---
 
 <div align="center">

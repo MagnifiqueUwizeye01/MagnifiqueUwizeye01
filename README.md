@@ -24,7 +24,7 @@
 </td>
 <td align="center" valign="top">
 <sub><b>Backend</b></sub><br/><br/>
-<img src="https://img.shields.io/badge/Node.js-555?style=flat&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Node.js-555?style=flat&logo=nodedotjs&logoColor=339933"/> 
 <img src="https://img.shields.io/badge/Express-555?style=flat&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-555?style=flat&logo=openjdk&logoColor=ED8B00"/> 
 <img src="https://img.shields.io/badge/Hibernate-555?style=flat&logo=hibernate&logoColor=59666C"/>

@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=b0a8ff&center=true&vCenter=true&width=440&lines=Software+Engineer;Certified+Data+Analyst;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=FiquWorks&label=Profile%20Views&color=b0a8ff&style=flat) 
+![Profile Views](https://komarev.com/ghpvc/?username=FiquWorks&label=Profile%20Views&color=b0a8ff&style=flat)  
  
 </div>
 

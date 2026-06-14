@@ -58,7 +58,7 @@
 <sub><b>Tools</b></sub><br/><br/>
 <img src="https://img.shields.io/badge/Git-555?style=flat&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/VS Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/NetBeans-555?style=flat&logo=apache-netbeans-ide&logoColor=1B6AC6"/>
+<img src="https://img.shields.io/badge/NetBeans-555?style=flat&logo=apache-netbeans-ide&logoColor=1B6AC6"/> 
 <img src="https://img.shields.io/badge/Figma-555?style=flat&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Postman-555?style=flat&logo=postman&logoColor=FF6C37"/>  
 </td>

@@ -16,51 +16,51 @@
 <tr>
 <td align="center" valign="top">
 <sub><b>Frontend</b></sub><br/><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TS-007ACC?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-555?style=flat&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-555?style=flat&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-555?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-555?style=flat&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/React-555?style=flat&logo=react&logoColor=61DAFB"/>
 </td>
 <td align="center" valign="top">
 <sub><b>Backend</b></sub><br/><br/>
-<img src="https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-555?style=flat&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-555?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-555?style=flat&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Hibernate-555?style=flat&logo=hibernate&logoColor=59666C"/>
+<img src="https://img.shields.io/badge/Django-555?style=flat&logo=django&logoColor=white"/>
 </td>
 <td align="center" valign="top">
 <sub><b>Languages</b></sub><br/><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TS-007ACC?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-555?style=flat&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/JavaScript-555?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-555?style=flat&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Python-555?style=flat&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C++-555?style=flat&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Flutter-555?style=flat&logo=flutter&logoColor=02569B"/>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
 <sub><b>Databases</b></sub><br/><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-555?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-555?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-555?style=flat&logo=redis&logoColor=DC382D"/>
 </td>
 <td align="center" valign="top">
 <sub><b>DevOps & Cloud</b></sub><br/><br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-555?style=flat&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kubernetes-555?style=flat&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/AWS-555?style=flat&logo=amazon-aws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/GitHub-555?style=flat&logo=github&logoColor=white"/>
 </td>
 <td align="center" valign="top">
 <sub><b>Tools</b></sub><br/><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-555?style=flat&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/VS Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/NetBeans-555?style=flat&logo=apache-netbeans-ide&logoColor=1B6AC6"/>
+<img src="https://img.shields.io/badge/Figma-555?style=flat&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Postman-555?style=flat&logo=postman&logoColor=FF6C37"/>
 </td>
 </tr>
 </table>

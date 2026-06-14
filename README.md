@@ -43,7 +43,7 @@
 <tr>
 <td align="center" valign="top">
 <sub><b>Databases</b></sub><br/><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-555?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-555?style=flat&logo=postgresql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/MySQL-555?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-555?style=flat&logo=redis&logoColor=DC382D"/>
 </td>

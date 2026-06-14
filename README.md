@@ -33,7 +33,7 @@
 <td align="center" valign="top">
 <sub><b>Languages</b></sub><br/><br/>
 <img src="https://img.shields.io/badge/Java-555?style=flat&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/JavaScript-555?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-555?style=flat&logo=javascript&logoColor=F7DF1E"/> 
 <img src="https://img.shields.io/badge/TypeScript-555?style=flat&logo=typescript&logoColor=3178C6"/>  
 <img src="https://img.shields.io/badge/Python-555?style=flat&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/C++-555?style=flat&logo=cplusplus&logoColor=00599C"/>

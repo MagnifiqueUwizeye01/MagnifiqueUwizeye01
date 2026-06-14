@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Express-555?style=flat&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-555?style=flat&logo=openjdk&logoColor=ED8B00"/> 
 <img src="https://img.shields.io/badge/Hibernate-555?style=flat&logo=hibernate&logoColor=59666C"/>   
-<img src="https://img.shields.io/badge/Django-555?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-555?style=flat&logo=django&logoColor=white"/> 
 </td>
 <td align="center" valign="top">
 <sub><b>Languages</b></sub><br/><br/>

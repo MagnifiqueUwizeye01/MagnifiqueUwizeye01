@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Magnifique%20UWIZEYE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20·%20Certified%20Data%20Analyst&descSize=16&descAlignY=62&descColor=b0a8ff&animation=fadeIn" width="100%"/> 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=b0a8ff&center=true&vCenter=true&width=440&lines=Software+Engineer;Certified+Data+Analyst;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=b0a8ff&center=true&vCenter=true&width=440&lines=Software+Engineer;Certified+Data+Analyst;Problem+Solver+%26+Innovator" alt="Typing SVG" />  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FiquWorks&label=Profile%20Views&color=b0a8ff&style=flat)         
  
